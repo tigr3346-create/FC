@@ -154,7 +154,7 @@ AddHover(bindBtn, Color3.fromRGB(100,50,180))
 AddHover(sliderKnob, Color3.fromRGB(255,200,255))
 
 local freecamEnabled = false
-local baseSpeed = 32
+local baseSpeed = 200
 local minSpeed, maxSpeed = 5, 250
 local sensitivity = 0.18
 local sprintMultiplier = 3
